@@ -1,0 +1,57 @@
+F:\DB\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe.config
+F:\DB\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+F:\DB\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+F:\DB\PhoneDirectory\PhoneDirectory\obj\Debug\ResolveAssemblyReference.cache
+F:\DB\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Add_Person.resources
+F:\DB\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Form1.resources
+F:\DB\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Properties.Resources.resources
+F:\DB\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Search.resources
+F:\DB\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.GenerateResource.Cache
+F:\DB\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.exe
+F:\DB\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb
+F:\DB\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.UpdatePerson.resources
+F:\DB\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Login.resources
+F:\DB\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Form2.resources
+F:\DB\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.MyProfile.resources
+F:\DB\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe.manifest
+F:\DB\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.application
+F:\DB\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.exe.manifest
+F:\DB\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.application
+C:\Documents and Settings\Protic\Desktop\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe.config
+C:\Documents and Settings\Protic\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.exe
+C:\Documents and Settings\Protic\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb
+C:\Documents and Settings\Protic\Desktop\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe.manifest
+C:\Documents and Settings\Protic\Desktop\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.application
+C:\Documents and Settings\Protic\Desktop\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+C:\Documents and Settings\Protic\Desktop\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+C:\Documents and Settings\Protic\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Protic\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Add_Person.resources
+C:\Documents and Settings\Protic\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Form1.resources
+C:\Documents and Settings\Protic\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Form2.resources
+C:\Documents and Settings\Protic\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Login.resources
+C:\Documents and Settings\Protic\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.MyProfile.resources
+C:\Documents and Settings\Protic\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Properties.Resources.resources
+C:\Documents and Settings\Protic\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Search.resources
+C:\Documents and Settings\Protic\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.UpdatePerson.resources
+C:\Documents and Settings\Protic\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.GenerateResource.Cache
+C:\Documents and Settings\Protic\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.exe.manifest
+C:\Documents and Settings\Protic\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.application
+E:\CS stuff\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe.config
+E:\CS stuff\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe.manifest
+E:\CS stuff\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.application
+E:\CS stuff\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+E:\CS stuff\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+E:\CS stuff\PhoneDirectory\PhoneDirectory\obj\Debug\ResolveAssemblyReference.cache
+E:\CS stuff\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Add_Person.resources
+E:\CS stuff\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Form1.resources
+E:\CS stuff\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Form2.resources
+E:\CS stuff\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Login.resources
+E:\CS stuff\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.MyProfile.resources
+E:\CS stuff\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Properties.Resources.resources
+E:\CS stuff\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Search.resources
+E:\CS stuff\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.UpdatePerson.resources
+E:\CS stuff\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.GenerateResource.Cache
+E:\CS stuff\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.exe.manifest
+E:\CS stuff\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.application
+E:\CS stuff\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.exe
+E:\CS stuff\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb
